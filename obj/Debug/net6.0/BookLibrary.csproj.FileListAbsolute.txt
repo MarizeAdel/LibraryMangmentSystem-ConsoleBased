@@ -1,0 +1,14 @@
+D:\study\.net\MyProjects\BookLibrary\bin\Debug\net6.0\BookLibrary.exe
+D:\study\.net\MyProjects\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+D:\study\.net\MyProjects\BookLibrary\bin\Debug\net6.0\BookLibrary.runtimeconfig.json
+D:\study\.net\MyProjects\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+D:\study\.net\MyProjects\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\BookLibrary.genruntimeconfig.cache
+D:\study\.net\MyProjects\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
